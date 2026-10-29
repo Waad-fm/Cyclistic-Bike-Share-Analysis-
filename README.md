@@ -1,6 +1,6 @@
 Cyclistic Bike-Share Data Analysis
 Executive Summary
-This project analyzes 12 months of Cyclistic bike-share data to identify key differences between casual riders and annual members, helping design a targeted marketing strategy to convert casual riders into annual members.
+This project analyzes 11 months of Cyclistic bike-share data (excluding August) to identify key differences between casual riders and annual members, helping design a targeted marketing strategy to convert casual riders into annual members., helping design a targeted marketing strategy to convert casual riders into annual members.
 Tools & Technologies Used
 SQL (BigQuery): Data extraction, aggregation, and preparation.
 Tableau Public: Interactive dashboard creation and visualization.
